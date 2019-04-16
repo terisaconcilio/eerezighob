@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aedikaicho.kidsfirstproject.org/sitemap.xml
